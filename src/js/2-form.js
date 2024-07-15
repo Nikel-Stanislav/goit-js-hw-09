@@ -47,3 +47,4 @@ typeArea.addEventListener('focus', () => {
 typeArea.addEventListener('blur', () => {
   typeArea.placeholder = '';
 });
+// перевірка
